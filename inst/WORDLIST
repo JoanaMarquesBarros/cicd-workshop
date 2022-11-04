@@ -1,3 +1,7 @@
 CMD
 Pharma
+ROxygen
+covr
 cyclomatic
+devtools
+testthat
